@@ -64,7 +64,7 @@
     "repositories": [
       {
         "type": "vcs",
-        "url": "git@github.com:pnaumenko-bm/binarydriver"
+        "url": "git@github.com:pnaumenko-bm/BinaryDriver"
       }
     ]
 }
