@@ -33,7 +33,7 @@
     ],
     "require": {
         "php": ">=5.3.9",
-        "alchemy/BinaryDriver": "dev-feature/add-psr-log-3-support",
+        "alchemy/binary-driver": "dev-feature/add-psr-log-3-support",
         "doctrine/cache": "^1.0",
         "evenement/evenement": "^3.0 || ^2.0 || ^1.0",
         "neutron/temporary-filesystem": "^2.1.1 || ^3.0"
